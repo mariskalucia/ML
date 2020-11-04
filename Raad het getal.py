@@ -44,6 +44,7 @@ while not getalgeraden:
             # En dan stopt hij de code ook
             getalgeraden = True
     # Als je 20x gegokt hebt en nog steeds niet geraden dan stopt de code
+    
     elif (aantalkeer == 20):
         print("Jammer dan, het is niet je geluksdag.")
         getalgeraden = True
